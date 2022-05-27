@@ -1,4 +1,9 @@
 tiene 4 ruedas
 se transporta sobre tierra
 es rojo
+<<<<<<< HEAD
 es grande 
+=======
+es barato
+es caro 
+>>>>>>> 714e4a7d8a65611f203ec8c6220094b35b186d40
